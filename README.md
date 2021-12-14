@@ -2,4 +2,4 @@
 ¡Acepta el reto! es un almacén y juez en línea de problemas de programación en español que acepta soluciones en C, C++ y Java.  No es un mero listado de problemas, sino mucho más. ¡Es un corrector automático!
 
 
-Ejercios 413
+Ejercios 413 [Blancas y negras] (/src/com/company/p413.java)
