@@ -5,3 +5,7 @@
 413 - [Claras y oscuras](/src/com/company/p413.java) 
 <br>
 182 - [Persistencia multiplicativa de los números](/src/com/company/P182.java)
+<br>
+540 - [Por el hueco de la escalera](/src/com/company/Ejercicio540.java)
+<br>
+433 - [Racimos de uvas](/src/com/company/Ejercicio433.java)
