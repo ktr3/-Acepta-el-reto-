@@ -94,7 +94,7 @@ public class p413 {
 
     			} else if(total %2 != 0 ) {
 
-    				blancas = (int)cantidad + 1;
+    				 blancas = (int)cantidad + 1;
 
      			}
 
