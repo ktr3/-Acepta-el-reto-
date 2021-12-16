@@ -10,7 +10,7 @@ public class Ejercicio433 {
 	        // Constructor
 	        public FastReader()
 	        {
-	            // Initialize the reader
+	            // Initialize the readers
 	            reader = new BufferedReader(new InputStreamReader(System.in));
 	        }
 
