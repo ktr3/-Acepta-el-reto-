@@ -11,3 +11,7 @@
 433 - [Racimos de uvas](/src/com/company/Ejercicio433.java)
 <br>
 337 - [La abuela María](src/com/company/P337.java)
+<br> 
+114 - [Último dígito del factorial](/src/com/company/P114.java)
+<br> 
+116 - [¡Hola mundo!](/src/com/company/P116.java)
